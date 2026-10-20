@@ -1,0 +1,4 @@
+# ชุดเต็มสำหรับรันในเครื่อง: เพิ่มโมเดลค้นหาภาษาไทยที่ทำงานออฟไลน์ (ใช้พื้นที่ ~2 GB)
+-r requirements.txt
+sentence-transformers>=3.0
+torchvision
